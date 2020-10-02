@@ -1,0 +1,7 @@
+name: SayRip
+version: ${project.version}
+main: net.kasmin.sayrip.SayRip
+api-version: 1.15
+authors: [ kasmin ]
+description: The SayRip Plugin
+website: https://kasmin.net
